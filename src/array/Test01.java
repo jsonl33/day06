@@ -18,5 +18,7 @@ public class Test01 {
 		for(double i:d1) {
 			System.out.println(i);
 		}
+		System.out.println("===============================");
 	}
+	
 }
